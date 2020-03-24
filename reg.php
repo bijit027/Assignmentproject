@@ -43,7 +43,7 @@ include("auth.php");
 				<!--for file-->
 				
 				<div class="form-group">
-							<label for="file">Profile picture:</label>
+							<label for="file">Assignment: </label>
 							<input type="file" class="form-control" id="file" name="file">
 				</div>
 				
